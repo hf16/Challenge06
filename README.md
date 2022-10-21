@@ -34,6 +34,11 @@ npm run start
 
 # Lampiran
 
+**Tampilan Halaman HOME**
+![image](https://user-images.githubusercontent.com/95130275/197202106-af86cdd0-0aac-4fd2-adb9-32f7a299f92a.png)
+![image](https://user-images.githubusercontent.com/95130275/197202220-022c0f4a-313f-4934-b3ad-d1b22fc0f9c4.png)
+
+
 **Tampilan Halaman Login**
 
 ![image](https://user-images.githubusercontent.com/95130275/197191985-68b38da8-b99f-4542-a92b-1652e4b0fa43.png)
