@@ -39,7 +39,7 @@ npm run start
 ![image](https://user-images.githubusercontent.com/95130275/197191985-68b38da8-b99f-4542-a92b-1652e4b0fa43.png)
 
 
-**Tampilan Halaman RegisterHome 2**
+**Tampilan Halaman Register 2**
 
 ![image](https://user-images.githubusercontent.com/95130275/197192089-6019d0d2-d960-4fd2-9ef2-b872c90f4b7c.png)
 
