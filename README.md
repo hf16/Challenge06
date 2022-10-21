@@ -7,7 +7,7 @@ Kelas : FEJS - 2
 
 # Hasil Porjek APP MovieList bisa diakses melalaui link berikut: 
 
-https://challenge05.vercel.app/
+https://challenge06-hf16.vercel.app/
 
 
 # Langkah Menjalankan Program App Movie List
